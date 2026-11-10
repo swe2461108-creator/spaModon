@@ -1,0 +1,190 @@
+[
+  {
+    "craft_code": "02_0101",
+    "craft_group": "Wooden Handicrafts and Traditional Artifacts",
+    "craft_name": "Traditional Bow and Arrow Set",
+    "material_name": "Betula, Horn, Sinew and Wood",
+    "native_name": "Уламжлалт нум сум",
+    "province": "Khentii",
+    "specifications": {
+      "Weight (kg)": 1.2,
+      "Length (cm)": 135.0,
+      "Width (cm)": 3.5,
+      "Height (cm)": 28.0,
+      "Draw weight (lbs)": 45.0,
+      "Volume (cm3)": 1500.0
+    },
+    "wood_properties": {
+      "Moisture content (%)": 8.5,
+      "Density (g/cm3)": 0.72,
+      "Hardness (MPa)": 62.0,
+      "Resin content (%)": 1.2,
+      "Ash content (%)": 0.4
+    },
+    "finishing_details": {
+      "Coating type": "Natural beeswax and pine rosin",
+      "Carving grade": "Hand-carved traditional ornaments",
+      "Polishing grade": "Fine sanded (P1000)",
+      "Durability rating": 9.5,
+      "Refuse (%)": 2.0
+    },
+    "workshop_information": {
+      "Workshop area": "Khentii province, Chinggis craft workshop",
+      "Creation date": "12.05.2025",
+      "Basis of selection": "Nomadic heritage and archery tradition",
+      "Additional info": "Product name: Composite traditional bow with feathered arrows"
+    },
+    "structural_parts": {
+      "Total weight (g)": "1200",
+      "Wooden part weight (g)": "850",
+      "Metal/Bone part weight (g)": "350",
+      "Discarded part": null
+    },
+    "processing_conditions": {
+      "Crafting method": "Steam bending and sinew backing",
+      "Seasoning method": "Natural air drying for 2 years",
+      "Reference standard": "MNS Traditional Craft Standards"
+    }
+  },
+  {
+    "craft_code": "02_0102",
+    "craft_group": "Wooden Handicrafts and Furniture",
+    "craft_name": "Handcrafted Wooden Dining Table",
+    "material_name": "Larix sibirica (Siberian Larch)",
+    "native_name": "Модон ширээ",
+    "province": "Selenge",
+    "specifications": {
+      "Weight (kg)": 18.5,
+      "Length (cm)": 120.0,
+      "Width (cm)": 80.0,
+      "Height (cm)": 75.0,
+      "Seating capacity": 4.0,
+      "Volume (cm3)": 720000.0
+    },
+    "wood_properties": {
+      "Moisture content (%)": 10.0,
+      "Density (g/cm3)": 0.65,
+      "Hardness (MPa)": 54.0,
+      "Resin content (%)": 3.5,
+      "Ash content (%)": 0.5
+    },
+    "finishing_details": {
+      "Coating type": "Eco-friendly teak oil finish",
+      "Carving grade": "Minimalist geometric edge carving",
+      "Polishing grade": "Medium sanded (P400)",
+      "Durability rating": 9.0,
+      "Refuse (%)": 5.0
+    },
+    "workshop_information": {
+      "Workshop area": "Selenge province, Altanbulag woodworks",
+      "Creation date": "18.08.2025",
+      "Basis of selection": "Functional household furniture",
+      "Additional info": "Product name: Solid larch wood dining table with detachable legs"
+    },
+    "structural_parts": {
+      "Total weight (g)": "18500",
+      "Wooden part weight (g)": "18000",
+      "Metal/Hardware weight (g)": "500",
+      "Discarded part": null
+    },
+    "processing_conditions": {
+      "Crafting method": "Mortise and tenon joint construction",
+      "Seasoning method": "Kiln dried",
+      "Reference standard": "ISO 9001 Furniture Safety"
+    }
+  },
+  {
+    "craft_code": "02_0103",
+    "craft_group": "Wooden Handicrafts and Furniture",
+    "craft_name": "Ergonomic Wooden Chair",
+    "material_name": "Pinus sylvestris (Scots Pine)",
+    "native_name": "Модон сандал",
+    "province": "Bulgan",
+    "specifications": {
+      "Weight (kg)": 5.2,
+      "Length (cm)": 45.0,
+      "Width (cm)": 45.0,
+      "Height (cm)": 90.0,
+      "Seat height (cm)": 45.0,
+      "Volume (cm3)": 182250.0
+    },
+    "wood_properties": {
+      "Moisture content (%)": 9.2,
+      "Density (g/cm3)": 0.52,
+      "Hardness (MPa)": 42.0,
+      "Resin content (%)": 4.0,
+      "Ash content (%)": 0.3
+    },
+    "finishing_details": {
+      "Coating type": "Water-based matte lacquer",
+      "Carving grade": "Curved backrest contouring",
+      "Polishing grade": "Fine sanded (P600)",
+      "Durability rating": 8.5,
+      "Refuse (%)": 3.0
+    },
+    "workshop_information": {
+      "Workshop area": "Bulgan province, Selenge timber art",
+      "Creation date": "02.09.2025",
+      "Basis of selection": "Ergonomic home seating",
+      "Additional info": "Product name: Solid pine wooden chair with carved backrest"
+    },
+    "structural_parts": {
+      "Total weight (g)": "5200",
+      "Wooden part weight (g)": "5050",
+      "Metal/Hardware weight (g)": "150",
+      "Discarded part": null
+    },
+    "processing_conditions": {
+      "Crafting method": "Lathe turning and CNC shaping",
+      "Seasoning method": "Controlled chamber drying",
+      "Reference standard": "MNS Furniture Durability"
+    }
+  },
+  {
+    "craft_code": "02_0104",
+    "craft_group": "Wooden Handicrafts and Traditional Furniture",
+    "craft_name": "Low Wooden Stool (Dorkhon)",
+    "material_name": "Betula platyphylla (Asian White Birch)",
+    "native_name": "Дорхон сандал",
+    "province": "Arkhangai",
+    "specifications": {
+      "Weight (kg)": 2.1,
+      "Length (cm)": 30.0,
+      "Width (cm)": 30.0,
+      "Height (cm)": 25.0,
+      "Load capacity (kg)": 150.0,
+      "Volume (cm3)": 22500.0
+    },
+    "wood_properties": {
+      "Moisture content (%)": 8.0,
+      "Density (g/cm3)": 0.67,
+      "Hardness (MPa)": 58.0,
+      "Resin content (%)": 0.8,
+      "Ash content (%)": 0.4
+    },
+    "finishing_details": {
+      "Coating type": "Linseed oil finish",
+      "Carving grade": "Traditional Mongolian circular patterns",
+      "Polishing grade": "Hand sanded (P800)",
+      "Durability rating": 9.2,
+      "Refuse (%)": 1.5
+    },
+    "workshop_information": {
+      "Workshop area": "Arkhangai province, Tsetserleg craft hub",
+      "Creation date": "15.10.2025",
+      "Basis of selection": "Nomadic yurt furniture culture",
+      "Additional info": "Product name: Low portable wooden stool 'Dorkhon'"
+    },
+    "structural_parts": {
+      "Total weight (g)": "2100",
+      "Wooden part weight (g)": "2100",
+      "Metal/Hardware weight (g)": "0",
+      "Discarded part": null
+    },
+    "processing_conditions": {
+      "Crafting method": "Traditional wedge-leg joinery",
+      "Seasoning method": "Natural drying",
+      "Reference standard": "MNS Traditional Artifact Standard"
+    }
+  }
+]
