@@ -1,0 +1,97 @@
+@use "sass:color";
+
+// Логоны өнгөний палитр
+$woodDark: #4a2e1a; // Гүн модон бор
+$woodPrimary: #7c4a27; // Уламжлалт модон бор
+$woodLight: #d8bc94; // Модны үртэс/цайвар дулаан өнгө
+$bgWarm: #faf6f0; // Дулаан шаргал дэвсгэр
+$textDark: #2b1a0e; // Текстийн гүн бор өнгө
+
+// Bulma фреймворкийн өнгийг дарах
+$primary: $woodPrimary;
+$link: $woodDark;
+$body-background-color: $bgWarm;
+$body-color: $textDark;
+$family-sans-serif: "Georgia", "Segoe UI", serif; // Уламжлалт хэв маяг бүхий шрифт
+
+@import "../../node_modules/bulma/bulma";
+
+// Цэсний хэсэг (Navbar)
+.app-sticky {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background-color: #ffffff;
+}
+
+.app-shadow {
+  box-shadow: 0 4px 15px rgba(74, 46, 26, 0.08);
+}
+
+.navbar {
+  border-bottom: 3px solid $woodLight;
+}
+
+.app-logo {
+  font-family: "Georgia", serif;
+  font-size: 1.25rem;
+  color: $woodDark !important;
+
+  img {
+    max-height: 48px;
+    border-radius: 50%;
+    margin-right: 8px;
+  }
+
+  span {
+    color: $woodPrimary;
+    font-weight: bold;
+  }
+}
+
+// Banner / Hero хэсэг
+.hero.is-wood {
+  background: linear-gradient(rgba(74, 46, 26, 0.85), rgba(74, 46, 26, 0.85)),
+    url("../img/wood-pattern.jpg") center/cover;
+  color: #ffffff;
+
+  .title,
+  .subtitle {
+    color: #ffffff;
+    font-family: "Georgia", serif;
+  }
+}
+
+// Кардын дизайн
+.box,
+.card {
+  border-radius: 8px;
+  border: 1px solid color.scale($woodLight, $lightness: 20%);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  background-color: #ffffff;
+}
+
+// Сагсны икон болон badge
+.cart-icon-wrapper {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  color: $woodDark !important;
+
+  .cart-badge {
+    position: absolute;
+    top: 2px;
+    right: 2px;
+    background-color: $woodDark;
+    color: #ffffff;
+    font-size: 0.75rem;
+    font-weight: bold;
+    min-width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2px;
+  }
+}
